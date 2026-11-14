@@ -15,7 +15,7 @@ st.write("Why 2027? My data ends in Dec 2023. Forecasting 2025 in 2026 has no bu
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/prophet_ready_AAPL.csv")
+    df = pd.read_csv("aapl-streamlit/data/prophet_ready_AAPL.csv")
     df['ds'] = pd.to_datetime(df['ds'])
     return df
 

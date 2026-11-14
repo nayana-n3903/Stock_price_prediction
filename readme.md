@@ -10,8 +10,8 @@
 
 | Platform | Link |
 | :--- | :--- |
-| **Streamlit App (Interactive)** | https://stockpriceprediction-...streamlit.app <!-- REPLACE with your exact Streamlit Cloud link --> |
-| **Tableau Public Dashboard** | https://public.tableau.com/... <!-- REPLACE with your exact Tableau Public link --> |
+| **Streamlit App (Interactive)** | https://stockpriceprediction-2fk24r9kxhwxxaentzduwj.streamlit.app/
+| **Tableau Public Dashboard** |https://public.tableau.com/views/Stock_Price_forecasting/Stockpriceforecasting1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 | **GitHub Repo** | https://github.com/nayana-n3903/Stock_price_prediction |
 
 ---
